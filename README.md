@@ -2,7 +2,7 @@
 
 ### Founder of VTUSync – Building smarter tools for VTU students
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulpandiyan&label=Profile views&color=0e75b6&style=flat" alt="rahulpandiyan" /> </p>
+<p align="left"> <img src="https://instagram.fblr23-1.fna.fbcdn.net/v/t51.2885-19/566028099_18079073822474204_4971946598781914687_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fblr23-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QFmJr9dXIF-5GwArcvxTrpXda_3uGrR3jJgfNnWclkmTSckJJUy5cjCJVvyBb76abk&_nc_ohc=877q5HH2UVgQ7kNvwE7iob9&_nc_gid=jH60RF0XSC0nlTunOK-pfQ&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfoNXX99H_9bGjIIiVrFwWPuyc91qRYY0I1qHwNLs-UqkQ&oe=695C1BBE&_nc_sid=7d3ac5" alt="rahulpandiyan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulpandiyan" alt="rahulpandiyan" /></a> </p>
 
