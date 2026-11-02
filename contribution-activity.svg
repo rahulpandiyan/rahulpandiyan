@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="260" viewBox="0 0 860 260">
+<defs>
+<linearGradient id="activity-bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#111827"/>
+<stop offset="100%" stop-color="#0d1117"/>
+</linearGradient>
+<linearGradient id="activity-area" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#06b6d4" stop-opacity="0.35"/>
+<stop offset="100%" stop-color="#06b6d4" stop-opacity="0.01"/>
+</linearGradient>
+</defs>
+<rect width="100%" height="100%" rx="16" fill="url(#activity-bg)" stroke="#30363d"/>
+<text x="28" y="34" fill="#f0f6fc" font-size="16" font-weight="bold" font-family="sans-serif">Contribution Activity</text>
+<text x="832" y="34" fill="#8b949e" font-size="11" text-anchor="end" font-family="monospace">677 contributions</text>
+<line x1="55" y1="208.0" x2="830" y2="208.0" stroke="#30363d" stroke-dasharray="3 5"/>
+<text x="42" y="212.0" fill="#8b949e" font-size="10" text-anchor="end" font-family="monospace">0</text>
+<line x1="55" y1="140.0" x2="830" y2="140.0" stroke="#30363d" stroke-dasharray="3 5"/>
+<text x="42" y="144.0" fill="#8b949e" font-size="10" text-anchor="end" font-family="monospace">48</text>
+<line x1="55" y1="72.0" x2="830" y2="72.0" stroke="#30363d" stroke-dasharray="3 5"/>
+<text x="42" y="76.0" fill="#8b949e" font-size="10" text-anchor="end" font-family="monospace">96</text>
+<path d="M 55 208 L 55.0,205.2 L 69.9,198.1 L 84.8,208.0 L 99.7,208.0 L 114.6,208.0 L 129.5,208.0 L 144.4,203.8 L 159.3,205.2 L 174.2,203.8 L 189.1,202.3 L 204.0,208.0 L 218.9,206.6 L 233.8,205.2 L 248.8,208.0 L 263.7,208.0 L 278.6,208.0 L 293.5,208.0 L 308.4,208.0 L 323.3,206.6 L 338.2,208.0 L 353.1,208.0 L 368.0,206.6 L 382.9,205.2 L 397.8,208.0 L 412.7,208.0 L 427.6,208.0 L 442.5,208.0 L 457.4,208.0 L 472.3,208.0 L 487.2,206.6 L 502.1,200.9 L 517.0,208.0 L 531.9,200.9 L 546.8,206.6 L 561.7,193.8 L 576.6,206.6 L 591.5,191.0 L 606.4,199.5 L 621.3,202.3 L 636.2,205.2 L 651.2,117.3 L 666.1,157.0 L 681.0,148.5 L 695.9,72.0 L 710.8,103.2 L 725.7,157.0 L 740.6,151.3 L 755.5,191.0 L 770.4,165.5 L 785.3,103.2 L 800.2,137.2 L 815.1,159.8 L 830.0,188.2 L 830 208 Z" fill="url(#activity-area)"/>
+<polyline points="55.0,205.2 69.9,198.1 84.8,208.0 99.7,208.0 114.6,208.0 129.5,208.0 144.4,203.8 159.3,205.2 174.2,203.8 189.1,202.3 204.0,208.0 218.9,206.6 233.8,205.2 248.8,208.0 263.7,208.0 278.6,208.0 293.5,208.0 308.4,208.0 323.3,206.6 338.2,208.0 353.1,208.0 368.0,206.6 382.9,205.2 397.8,208.0 412.7,208.0 427.6,208.0 442.5,208.0 457.4,208.0 472.3,208.0 487.2,206.6 502.1,200.9 517.0,208.0 531.9,200.9 546.8,206.6 561.7,193.8 576.6,206.6 591.5,191.0 606.4,199.5 621.3,202.3 636.2,205.2 651.2,117.3 666.1,157.0 681.0,148.5 695.9,72.0 710.8,103.2 725.7,157.0 740.6,151.3 755.5,191.0 770.4,165.5 785.3,103.2 800.2,137.2 815.1,159.8 830.0,188.2" fill="none" stroke="#06b6d4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="55" y="238" fill="#8b949e" font-size="10" font-family="monospace">2025-11-02</text>
+<text x="830" y="238" fill="#8b949e" font-size="10" text-anchor="end" font-family="monospace">2026-11-02</text>
+</svg>
