@@ -118,7 +118,7 @@ I enjoy working across the stack, designing backend systems, exploring AI/ML, an
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulpandiyan&bg_color=0d1117&color=8b5cf6&line=06b6d4&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://raw.githubusercontent.com/rahulpandiyan/rahulpandiyan/output/contribution-activity.svg" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
