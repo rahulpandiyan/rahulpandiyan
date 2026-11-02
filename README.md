@@ -1,28 +1,149 @@
+# Rahul Pandiyan
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irahulpandiyan) 
+<div align="center">
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rahulpandiyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rahulpandiyan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rahulpandiyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=750&lines=rahul.pandiyan+%2F%2F+developer;Full+Stack+%7C+Backend+%7C+AI;I+build+things+that+actually+work." alt="Developer typing animation" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rahulpandiyan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://github.com/rahulpandiyan">
+<img src="https://img.shields.io/badge/PROFILE-rahulpandiyan-8B5CF6?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://instagram.com/irahulpandiyan">
+<img src="https://img.shields.io/badge/SOCIAL-Instagram-EC4899?style=flat-square&logo=instagram&logoColor=white" />
+</a>
+<a href="https://buymeacoffee.com/rahulpandiyan">
+<img src="https://img.shields.io/badge/SUPPORT-Buy_Me_a_Coffee-F59E0B?style=flat-square&logo=buy-me-a-coffee&logoColor=black" />
+</a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rahulpandiyan&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=rahulpandiyan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rahulpandiyan) 
+```bash
+$ whoami
+rahul_pandiyan
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+$ role
+Computer Science Student | Software Developer
+
+$ currently_building
+Real-world products, backend systems & AI-powered applications
+
+$ philosophy
+Build > Learn > Improve > Repeat
+```
+
+## `01` — About
+
+I'm a Computer Science student and developer who enjoys building software beyond tutorials.
+
+From backend systems and full-stack applications to AI-powered products, I like taking an idea from concept to something people can actually use.
+
+- ⚙️ Interested in backend engineering and scalable systems
+- 🧠 Exploring AI/ML and intelligent applications
+- 🚀 Building and shipping real-world products
+- 🌱 Constantly learning, experimenting, and improving
+
+## `02` — Selected Builds
+
+<div align="center">
+
+<a href="https://github.com/rahulpandiyan">
+<img src="https://github-readme-stats.shion.dev/api/pin/?username=rahulpandiyan&repo=VTUSync&theme=dark" />
+</a>
+
+</div>
+
+| Project | What it does |
+|:--|:--|
+| **VTUSync** | Academic tools and resources designed for VTU students |
+| **SafeResale** | AI-powered second-hand marketplace with product verification |
+| **VPlan** | Smart timetable generation platform |
+| **ResuSync** | AI-powered resume builder |
+
+> Explore my repositories for more experiments, tools, and projects.
+
+## `03` — Tech Stack
+
+<div align="center">
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,php,dart,python,js,ts&theme=dark" />
+
+**FRONTEND & MOBILE**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,flutter,reactnative,threejs&theme=dark" />
+
+**BACKEND & APIs**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,laravel,dotnet&theme=dark" />
+
+**DATABASES & CLOUD**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,aws,azure,cloudflare,vercel&theme=dark" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+
+**TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,linux,apache&theme=dark" />
+
+</div>
+
+## `04` — Activity Log
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulpandiyan&bg_color=0d1117&color=8b5cf6&line=06b6d4&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
+
+</div>
+
+## `05` — Contribution Matrix
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rahulpandiyan/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
+
+</div>
+
+## `06` — GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=rahulpandiyan&theme=dark&hide_border=true&show_icons=true&rank_icon=github" width="49%" alt="GitHub statistics" />
+
+<img src="https://streak-stats.demolab.com/?user=rahulpandiyan&theme=github-dark-blue&hide_border=true" width="49%" alt="GitHub streak statistics" />
+
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rahulpandiyan&theme=dark&hide_border=true&layout=compact&langs_count=8" width="42%" alt="Most used programming languages" />
+
+</div>
+
+## `07` — Connect
+
+<div align="center">
+
+<a href="https://github.com/rahulpandiyan">
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/irahulpandiyan">
+<img src="https://img.shields.io/badge/Instagram-Let's_Connect-EC4899?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=rahulpandiyan&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" />
+
+<br/>
+
+`// Thanks for stopping by. Keep building. ⚡`
+
+</div>
+
+<!-- End of README -->
