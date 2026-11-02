@@ -1,4 +1,3 @@
-```yaml
 name: Generate GitHub Profile Graphics
 
 on:
@@ -245,4 +244,3 @@ jobs:
           user_email: "41898282+github-actions[bot]@users.noreply.github.com"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
