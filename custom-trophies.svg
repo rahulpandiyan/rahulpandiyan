@@ -1,29 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="230" viewBox="0 0 860 230">
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-<stop offset="0%" stop-color="#111827"/>
-<stop offset="100%" stop-color="#0d1117"/>
+<stop offset="0%" stop-color="#182235"/>
+<stop offset="100%" stop-color="#101827"/>
+</linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#202d43"/>
+<stop offset="100%" stop-color="#172235"/>
 </linearGradient>
 </defs>
-<rect width="100%" height="100%" rx="18" fill="url(#bg)" stroke="#30363d"/>
-<text x="30" y="38" fill="#8b5cf6" font-size="12" font-family="monospace" letter-spacing="3">GITHUB / DEVELOPER MILESTONES</text>
-<text x="30" y="66" fill="#f0f6fc" font-size="22" font-weight="bold" font-family="sans-serif">Rahul Pandiyan</text>
-<text x="830" y="40" fill="#22d3ee" font-size="11" text-anchor="end" font-family="monospace">LIVE PROFILE DATA</text>
-<rect x="30" y="92" width="190" height="112" rx="12" fill="#161b22" stroke="#30363d"/>
-<text x="48" y="121" fill="#fbbf24" font-size="13" font-family="sans-serif">★ TOTAL STARS</text>
-<text x="48" y="168" fill="#f0f6fc" font-size="32" font-weight="bold" font-family="monospace">4</text>
-<rect x="48" y="183" width="154" height="3" rx="2" fill="#fbbf24" opacity="0.8"/>
-<rect x="236" y="92" width="190" height="112" rx="12" fill="#161b22" stroke="#30363d"/>
-<text x="254" y="121" fill="#a78bfa" font-size="13" font-family="sans-serif">⌘ PUBLIC REPOS</text>
-<text x="254" y="168" fill="#f0f6fc" font-size="32" font-weight="bold" font-family="monospace">10</text>
-<rect x="254" y="183" width="154" height="3" rx="2" fill="#a78bfa" opacity="0.8"/>
-<rect x="442" y="92" width="190" height="112" rx="12" fill="#161b22" stroke="#30363d"/>
-<text x="460" y="121" fill="#22d3ee" font-size="13" font-family="sans-serif">⚡ CONTRIBUTIONS</text>
-<text x="460" y="168" fill="#f0f6fc" font-size="32" font-weight="bold" font-family="monospace">677</text>
-<rect x="460" y="183" width="154" height="3" rx="2" fill="#22d3ee" opacity="0.8"/>
-<rect x="648" y="92" width="190" height="112" rx="12" fill="#161b22" stroke="#30363d"/>
-<text x="666" y="121" fill="#f472b6" font-size="13" font-family="sans-serif">♧ FOLLOWERS</text>
-<text x="666" y="168" fill="#f0f6fc" font-size="32" font-weight="bold" font-family="monospace">4</text>
-<rect x="666" y="183" width="154" height="3" rx="2" fill="#f472b6" opacity="0.8"/>
-<text x="30" y="220" fill="#6e7681" font-size="10" font-family="monospace">AUTOMATICALLY GENERATED WITH GITHUB ACTIONS</text>
+<rect x="3" y="5" width="854" height="220" rx="22" fill="#080d16" opacity="0.72"/>
+<rect x="1" y="1" width="858" height="224" rx="22" fill="url(#bg)" stroke="#344158"/>
+<path d="M24 2 H836" stroke="#ffffff" stroke-opacity="0.08" stroke-linecap="round"/>
+<text x="30" y="38" fill="#f1f5f9" font-size="16" font-weight="600" font-family="sans-serif">Developer Highlights</text>
+<text x="30" y="57" fill="#94a3b8" font-size="10" font-family="sans-serif">A snapshot of my public GitHub profile</text>
+<rect x="31" y="96" width="190" height="112" rx="14" fill="#0b111c" opacity="0.75"/>
+<rect x="30" y="92" width="190" height="112" rx="14" fill="url(#card)" stroke="#36445b"/>
+<path d="M45 93 H205" stroke="#ffffff" stroke-opacity="0.10" stroke-linecap="round"/>
+<text x="48" y="126" fill="#a5b4fc" font-size="10" font-weight="600" letter-spacing="1.1" font-family="sans-serif">TOTAL STARS</text>
+<text x="48" y="170" fill="#f1f5f9" font-size="32" font-weight="600" font-family="monospace">4</text>
+<text x="48" y="189" fill="#64748b" font-size="10" font-family="sans-serif">Public profile</text>
+<rect x="237" y="96" width="190" height="112" rx="14" fill="#0b111c" opacity="0.75"/>
+<rect x="236" y="92" width="190" height="112" rx="14" fill="url(#card)" stroke="#36445b"/>
+<path d="M251 93 H411" stroke="#ffffff" stroke-opacity="0.10" stroke-linecap="round"/>
+<text x="254" y="126" fill="#a5b4fc" font-size="10" font-weight="600" letter-spacing="1.1" font-family="sans-serif">PUBLIC REPOS</text>
+<text x="254" y="170" fill="#f1f5f9" font-size="32" font-weight="600" font-family="monospace">10</text>
+<text x="254" y="189" fill="#64748b" font-size="10" font-family="sans-serif">Public profile</text>
+<rect x="443" y="96" width="190" height="112" rx="14" fill="#0b111c" opacity="0.75"/>
+<rect x="442" y="92" width="190" height="112" rx="14" fill="url(#card)" stroke="#36445b"/>
+<path d="M457 93 H617" stroke="#ffffff" stroke-opacity="0.10" stroke-linecap="round"/>
+<text x="460" y="126" fill="#a5b4fc" font-size="10" font-weight="600" letter-spacing="1.1" font-family="sans-serif">CONTRIBUTIONS</text>
+<text x="460" y="170" fill="#f1f5f9" font-size="32" font-weight="600" font-family="monospace">679</text>
+<text x="460" y="189" fill="#64748b" font-size="10" font-family="sans-serif">Public profile</text>
+<rect x="649" y="96" width="190" height="112" rx="14" fill="#0b111c" opacity="0.75"/>
+<rect x="648" y="92" width="190" height="112" rx="14" fill="url(#card)" stroke="#36445b"/>
+<path d="M663 93 H823" stroke="#ffffff" stroke-opacity="0.10" stroke-linecap="round"/>
+<text x="666" y="126" fill="#a5b4fc" font-size="10" font-weight="600" letter-spacing="1.1" font-family="sans-serif">FOLLOWERS</text>
+<text x="666" y="170" fill="#f1f5f9" font-size="32" font-weight="600" font-family="monospace">4</text>
+<text x="666" y="189" fill="#64748b" font-size="10" font-family="sans-serif">Public profile</text>
+<text x="30" y="216" fill="#64748b" font-size="9" font-family="sans-serif">Updated automatically from GitHub</text>
 </svg>

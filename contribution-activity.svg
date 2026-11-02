@@ -1,25 +1,207 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="260" viewBox="0 0 860 260">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="280" viewBox="0 0 860 280">
 <defs>
 <linearGradient id="activity-bg" x1="0" y1="0" x2="1" y2="1">
-<stop offset="0%" stop-color="#111827"/>
-<stop offset="100%" stop-color="#0d1117"/>
+<stop offset="0%" stop-color="#182235"/>
+<stop offset="100%" stop-color="#101827"/>
 </linearGradient>
-<linearGradient id="activity-area" x1="0" y1="0" x2="0" y2="1">
-<stop offset="0%" stop-color="#06b6d4" stop-opacity="0.35"/>
-<stop offset="100%" stop-color="#06b6d4" stop-opacity="0.01"/>
+<linearGradient id="activity-bar" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#c4b5fd"/>
+<stop offset="100%" stop-color="#8b5cf6"/>
+</linearGradient>
+<linearGradient id="activity-inset" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#0c1422"/>
+<stop offset="100%" stop-color="#111b2c"/>
 </linearGradient>
 </defs>
-<rect width="100%" height="100%" rx="16" fill="url(#activity-bg)" stroke="#30363d"/>
-<text x="28" y="34" fill="#f0f6fc" font-size="16" font-weight="bold" font-family="sans-serif">Contribution Activity</text>
-<text x="832" y="34" fill="#8b949e" font-size="11" text-anchor="end" font-family="monospace">677 contributions</text>
-<line x1="55" y1="208.0" x2="830" y2="208.0" stroke="#30363d" stroke-dasharray="3 5"/>
-<text x="42" y="212.0" fill="#8b949e" font-size="10" text-anchor="end" font-family="monospace">0</text>
-<line x1="55" y1="140.0" x2="830" y2="140.0" stroke="#30363d" stroke-dasharray="3 5"/>
-<text x="42" y="144.0" fill="#8b949e" font-size="10" text-anchor="end" font-family="monospace">48</text>
-<line x1="55" y1="72.0" x2="830" y2="72.0" stroke="#30363d" stroke-dasharray="3 5"/>
-<text x="42" y="76.0" fill="#8b949e" font-size="10" text-anchor="end" font-family="monospace">96</text>
-<path d="M 55 208 L 55.0,205.2 L 69.9,198.1 L 84.8,208.0 L 99.7,208.0 L 114.6,208.0 L 129.5,208.0 L 144.4,203.8 L 159.3,205.2 L 174.2,203.8 L 189.1,202.3 L 204.0,208.0 L 218.9,206.6 L 233.8,205.2 L 248.8,208.0 L 263.7,208.0 L 278.6,208.0 L 293.5,208.0 L 308.4,208.0 L 323.3,206.6 L 338.2,208.0 L 353.1,208.0 L 368.0,206.6 L 382.9,205.2 L 397.8,208.0 L 412.7,208.0 L 427.6,208.0 L 442.5,208.0 L 457.4,208.0 L 472.3,208.0 L 487.2,206.6 L 502.1,200.9 L 517.0,208.0 L 531.9,200.9 L 546.8,206.6 L 561.7,193.8 L 576.6,206.6 L 591.5,191.0 L 606.4,199.5 L 621.3,202.3 L 636.2,205.2 L 651.2,117.3 L 666.1,157.0 L 681.0,148.5 L 695.9,72.0 L 710.8,103.2 L 725.7,157.0 L 740.6,151.3 L 755.5,191.0 L 770.4,165.5 L 785.3,103.2 L 800.2,137.2 L 815.1,159.8 L 830.0,188.2 L 830 208 Z" fill="url(#activity-area)"/>
-<polyline points="55.0,205.2 69.9,198.1 84.8,208.0 99.7,208.0 114.6,208.0 129.5,208.0 144.4,203.8 159.3,205.2 174.2,203.8 189.1,202.3 204.0,208.0 218.9,206.6 233.8,205.2 248.8,208.0 263.7,208.0 278.6,208.0 293.5,208.0 308.4,208.0 323.3,206.6 338.2,208.0 353.1,208.0 368.0,206.6 382.9,205.2 397.8,208.0 412.7,208.0 427.6,208.0 442.5,208.0 457.4,208.0 472.3,208.0 487.2,206.6 502.1,200.9 517.0,208.0 531.9,200.9 546.8,206.6 561.7,193.8 576.6,206.6 591.5,191.0 606.4,199.5 621.3,202.3 636.2,205.2 651.2,117.3 666.1,157.0 681.0,148.5 695.9,72.0 710.8,103.2 725.7,157.0 740.6,151.3 755.5,191.0 770.4,165.5 785.3,103.2 800.2,137.2 815.1,159.8 830.0,188.2" fill="none" stroke="#06b6d4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="55" y="238" fill="#8b949e" font-size="10" font-family="monospace">2025-11-02</text>
-<text x="830" y="238" fill="#8b949e" font-size="10" text-anchor="end" font-family="monospace">2026-11-02</text>
+<rect x="3" y="5" width="854" height="270" rx="22" fill="#080d16" opacity="0.72"/>
+<rect x="1" y="1" width="858" height="274" rx="22" fill="url(#activity-bg)" stroke="#344158"/>
+<path d="M24 2 H836" stroke="#ffffff" stroke-opacity="0.08" stroke-linecap="round"/>
+<text x="30" y="37" fill="#f1f5f9" font-size="16" font-weight="600" font-family="sans-serif">Contribution Activity</text>
+<text x="30" y="56" fill="#94a3b8" font-size="10" font-family="sans-serif">Weekly activity over the past year</text>
+<text x="830" y="38" fill="#c4b5fd" font-size="13" text-anchor="end" font-weight="600" font-family="monospace">679</text>
+<text x="830" y="55" fill="#94a3b8" font-size="9" text-anchor="end" font-family="sans-serif">contributions</text>
+<rect x="24" y="69" width="812" height="174" rx="14" fill="#0b1321" stroke="#28364d"/>
+<path d="M38 70 H822" stroke="#ffffff" stroke-opacity="0.04" stroke-linecap="round"/>
+<line x1="58" y1="208.0" x2="832" y2="208.0" stroke="#334155" stroke-opacity="0.62" stroke-dasharray="3 6"/>
+<text x="47" y="211.0" fill="#64748b" font-size="10" text-anchor="end" font-family="monospace">0</text>
+<line x1="58" y1="151.0" x2="832" y2="151.0" stroke="#334155" stroke-opacity="0.62" stroke-dasharray="3 6"/>
+<text x="47" y="154.0" fill="#64748b" font-size="10" text-anchor="end" font-family="monospace">48</text>
+<line x1="58" y1="94.0" x2="832" y2="94.0" stroke="#334155" stroke-opacity="0.62" stroke-dasharray="3 6"/>
+<text x="47" y="97.0" fill="#64748b" font-size="10" text-anchor="end" font-family="monospace">96</text>
+<text x="58.0" y="233" fill="#94a3b8" font-size="9" font-family="sans-serif">Nov</text>
+<rect x="60.8" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="60.8" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M61.8 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="75.4" y="201.7" width="9.0" height="8.3" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="75.4" y="199.7" width="9.0" height="8.3" rx="4" fill="url(#activity-bar)"/>
+<path d="M76.4 202.7 v2.3" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="90.0" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="90.0" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M91.0 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="104.6" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="104.6" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M105.6 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="119.2" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="119.2" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M120.2 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<text x="131.0" y="233" fill="#94a3b8" font-size="9" font-family="sans-serif">Dec</text>
+<rect x="133.8" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="133.8" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M134.8 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="148.4" y="206.4" width="9.0" height="3.6" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="148.4" y="204.4" width="9.0" height="3.6" rx="4" fill="url(#activity-bar)"/>
+<path d="M149.4 207.4 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="163.0" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="163.0" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M164.0 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="177.6" y="206.4" width="9.0" height="3.6" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="177.6" y="204.4" width="9.0" height="3.6" rx="4" fill="url(#activity-bar)"/>
+<path d="M178.6 207.4 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<text x="189.4" y="233" fill="#94a3b8" font-size="9" font-family="sans-serif">Jan</text>
+<rect x="192.2" y="205.2" width="9.0" height="4.8" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="192.2" y="203.2" width="9.0" height="4.8" rx="4" fill="url(#activity-bar)"/>
+<path d="M193.2 206.2 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="206.8" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="206.8" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M207.8 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="221.4" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="221.4" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M222.4 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="236.0" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="236.0" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M237.0 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<text x="247.8" y="233" fill="#94a3b8" font-size="9" font-family="sans-serif">Feb</text>
+<rect x="250.7" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="250.7" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M251.7 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="265.3" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="265.3" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M266.3 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="279.9" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="279.9" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M280.9 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="294.5" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="294.5" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M295.5 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<text x="306.3" y="233" fill="#94a3b8" font-size="9" font-family="sans-serif">Mar</text>
+<rect x="309.1" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="309.1" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M310.1 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="323.7" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="323.7" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M324.7 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="338.3" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="338.3" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M339.3 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="352.9" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="352.9" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M353.9 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="367.5" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="367.5" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M368.5 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<text x="379.3" y="233" fill="#94a3b8" font-size="9" font-family="sans-serif">Apr</text>
+<rect x="382.1" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="382.1" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M383.1 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="396.7" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="396.7" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M397.7 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="411.3" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="411.3" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M412.3 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="425.9" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="425.9" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M426.9 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<text x="437.7" y="233" fill="#94a3b8" font-size="9" font-family="sans-serif">May</text>
+<rect x="440.5" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="440.5" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M441.5 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="455.1" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="455.1" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M456.1 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="469.7" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="469.7" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M470.7 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="484.3" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="484.3" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M485.3 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="498.9" y="204.1" width="9.0" height="5.9" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="498.9" y="202.1" width="9.0" height="5.9" rx="4" fill="url(#activity-bar)"/>
+<path d="M499.9 205.1 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<text x="510.7" y="233" fill="#94a3b8" font-size="9" font-family="sans-serif">Jun</text>
+<rect x="513.5" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="513.5" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M514.5 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="528.1" y="204.1" width="9.0" height="5.9" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="528.1" y="202.1" width="9.0" height="5.9" rx="4" fill="url(#activity-bar)"/>
+<path d="M529.1 205.1 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="542.7" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="542.7" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M543.7 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="557.3" y="198.1" width="9.0" height="11.9" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="557.3" y="196.1" width="9.0" height="11.9" rx="4" fill="url(#activity-bar)"/>
+<path d="M558.3 199.1 v5.9" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<text x="569.1" y="233" fill="#94a3b8" font-size="9" font-family="sans-serif">Jul</text>
+<rect x="571.9" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="571.9" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M572.9 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="586.5" y="195.8" width="9.0" height="14.2" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="586.5" y="193.8" width="9.0" height="14.2" rx="4" fill="url(#activity-bar)"/>
+<path d="M587.5 196.8 v8.2" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="601.1" y="202.9" width="9.0" height="7.1" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="601.1" y="200.9" width="9.0" height="7.1" rx="4" fill="url(#activity-bar)"/>
+<path d="M602.1 203.9 v1.1" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="615.7" y="205.2" width="9.0" height="4.8" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="615.7" y="203.2" width="9.0" height="4.8" rx="4" fill="url(#activity-bar)"/>
+<path d="M616.7 206.2 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<text x="627.5" y="233" fill="#94a3b8" font-size="9" font-family="sans-serif">Aug</text>
+<rect x="630.3" y="207.0" width="9.0" height="3.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="630.3" y="205.0" width="9.0" height="3.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M631.3 208.0 v0.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="645.0" y="134.0" width="9.0" height="76.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="645.0" y="132.0" width="9.0" height="76.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M646.0 135.0 v70.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="659.6" y="167.2" width="9.0" height="42.8" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="659.6" y="165.2" width="9.0" height="42.8" rx="4" fill="url(#activity-bar)"/>
+<path d="M660.6 168.2 v36.8" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="674.2" y="160.1" width="9.0" height="49.9" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="674.2" y="158.1" width="9.0" height="49.9" rx="4" fill="url(#activity-bar)"/>
+<path d="M675.2 161.1 v43.9" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="688.8" y="96.0" width="9.0" height="114.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="688.8" y="94.0" width="9.0" height="114.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M689.8 97.0 v108.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<text x="700.6" y="233" fill="#94a3b8" font-size="9" font-family="sans-serif">Sep</text>
+<rect x="703.4" y="122.1" width="9.0" height="87.9" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="703.4" y="120.1" width="9.0" height="87.9" rx="4" fill="url(#activity-bar)"/>
+<path d="M704.4 123.1 v81.9" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="718.0" y="167.2" width="9.0" height="42.8" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="718.0" y="165.2" width="9.0" height="42.8" rx="4" fill="url(#activity-bar)"/>
+<path d="M719.0 168.2 v36.8" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="732.6" y="162.5" width="9.0" height="47.5" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="732.6" y="160.5" width="9.0" height="47.5" rx="4" fill="url(#activity-bar)"/>
+<path d="M733.6 163.5 v41.5" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="747.2" y="195.8" width="9.0" height="14.2" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="747.2" y="193.8" width="9.0" height="14.2" rx="4" fill="url(#activity-bar)"/>
+<path d="M748.2 196.8 v8.2" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<text x="759.0" y="233" fill="#94a3b8" font-size="9" font-family="sans-serif">Oct</text>
+<rect x="761.8" y="174.4" width="9.0" height="35.6" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="761.8" y="172.4" width="9.0" height="35.6" rx="4" fill="url(#activity-bar)"/>
+<path d="M762.8 175.4 v29.6" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="776.4" y="122.1" width="9.0" height="87.9" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="776.4" y="120.1" width="9.0" height="87.9" rx="4" fill="url(#activity-bar)"/>
+<path d="M777.4 123.1 v81.9" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="791.0" y="150.6" width="9.0" height="59.4" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="791.0" y="148.6" width="9.0" height="59.4" rx="4" fill="url(#activity-bar)"/>
+<path d="M792.0 151.6 v53.4" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<rect x="805.6" y="169.6" width="9.0" height="40.4" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="805.6" y="167.6" width="9.0" height="40.4" rx="4" fill="url(#activity-bar)"/>
+<path d="M806.6 170.6 v34.4" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<text x="817.4" y="233" fill="#94a3b8" font-size="9" font-family="sans-serif">Nov</text>
+<rect x="820.2" y="191.0" width="9.0" height="19.0" rx="4" fill="#080d16" opacity="0.8"/>
+<rect x="820.2" y="189.0" width="9.0" height="19.0" rx="4" fill="url(#activity-bar)"/>
+<path d="M821.2 192.0 v13.0" stroke="#ffffff" stroke-opacity="0.16" stroke-linecap="round"/>
+<text x="30" y="262" fill="#64748b" font-size="9" font-family="sans-serif">Less</text>
+<rect x="58" y="253" width="12" height="8" rx="3" fill="#29364b"/>
+<rect x="75" y="253" width="12" height="8" rx="3" fill="#8b5cf6"/>
+<text x="92" y="262" fill="#64748b" font-size="9" font-family="sans-serif">More</text>
 </svg>
