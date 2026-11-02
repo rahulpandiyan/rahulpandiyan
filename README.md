@@ -154,7 +154,7 @@ I enjoy working across the stack, designing backend systems, exploring AI/ML, an
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rahulpandiyan&theme=discord&no-frame=true&no-bg=true&column=6" width="100%" alt="GitHub profile trophies" />
+<img src="https://raw.githubusercontent.com/rahulpandiyan/rahulpandiyan/output/custom-trophies.svg" width="100%" alt="Rahul Pandiyan custom GitHub achievement panel" />
 
 </div>
 
