@@ -50,7 +50,6 @@ jobs:
           GH_USERNAME: rahulpandiyan
         run: |
           mkdir -p dist
-          chmod -R u+rwX dist
 
           python - <<'PY'
           import os
